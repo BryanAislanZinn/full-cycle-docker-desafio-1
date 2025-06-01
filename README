@@ -1,7 +1,3 @@
-## **Imagem com Golang**
+Imagem com Golang
 
-Para utlizar a imagem, execute o seguinte comando 
-
-´´´sh
-    docker pull bryanaislanzinn/tiny-go-fullcycle-rocks
-´´´
+Para utlizar a imagem, execute o seguinte comando : docker pull bryanaislanzinn/tiny-go-fullcycle-rocks
