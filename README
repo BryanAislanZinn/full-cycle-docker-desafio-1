@@ -2,6 +2,6 @@
 
 Para utlizar a imagem, execute o seguinte comando 
 
-```sh
+´´´sh
     docker pull bryanaislanzinn/tiny-go-fullcycle-rocks
-```
+´´´
